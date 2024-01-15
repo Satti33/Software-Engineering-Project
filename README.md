@@ -1,2 +1,3 @@
-# Software-Engineering-Project
-Salary Prediction Using Streamlit
+# simple_streamlit_app
+
+![](Capture.PNG)
